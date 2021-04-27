@@ -1,5 +1,5 @@
 # SearchMovieProject
-<img src="https://user-images.githubusercontent.com/60166901/116199314-f2b4a480-a771-11eb-979f-ab8116888628.jpeg" width="175">
+<img src="https://user-images.githubusercontent.com/60166901/116199314-f2b4a480-a771-11eb-979f-ab8116888628.jpeg" width="250">
 
 
 네이버 api 를 이용하여 영화를 검색한 후 결과를 보여주는 앱입니다.
